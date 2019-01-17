@@ -18,8 +18,8 @@
   "require": {
     "php": ">=7.1",
     "laravel/framework": "5.5.*",
-    "eveseat/eseye": "~1",
-    "eveseat/services": "~3",
+    "spectrefleet/eseye": "~1",
+    "spectrefleet/services": "~3",
     "doctrine/dbal": "^2.6"
   },
   "extra": {
